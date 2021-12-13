@@ -10,6 +10,10 @@ Beautiful Soup is a Python library that is used for web scraping purposes to pul
 
 Xtore® N95 Ultra-Comfortable Anti Pollution Mask | Replaceable Filter | Breathing Valve - (2 Mask, 4 Filters). 
 
+# Result Description
+
+Generated a pie chart to showcase the percentage of positive, negative and neutral reviews.
+
 # IDE 
 
 Google Colaboratory - Web IDE for python. 
